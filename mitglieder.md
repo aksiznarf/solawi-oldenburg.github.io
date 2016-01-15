@@ -5,7 +5,7 @@ title: Mitglieder
 
 ## Mitglieder
 
-### Unsere Geschichte
+### Wer wir sind
 - Postwachstumsvorlesung
 
 - Menschen, die sich engagieren wollen
